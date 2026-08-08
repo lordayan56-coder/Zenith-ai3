@@ -1,0 +1,6 @@
+{
+  "name": "ZENITH",
+  "description": "Futuristic Personal AI Assistant with 3D Holographic Core & Voice Command System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
